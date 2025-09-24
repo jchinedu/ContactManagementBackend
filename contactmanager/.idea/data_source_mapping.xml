@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/contactmanager/dao/ContactDaoImpl.java" value="93e736c5-ec1f-4d44-ad2c-99577ef00dda" />
+    <file url="file://$PROJECT_DIR$/src/main/java/contactmanager/dao/UserDaoImpl.java" value="93e736c5-ec1f-4d44-ad2c-99577ef00dda" />
+  </component>
+</project>
